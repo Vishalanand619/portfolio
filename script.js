@@ -1,4 +1,3 @@
-// Typing Effect
 const text = ["Full Stack Developer", "MERN Developer"];
 let i = 0, j = 0, current = "", del = false;
 
