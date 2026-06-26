@@ -17,7 +17,7 @@ function type() {
 }
 type();
 
-// Scroll Progress
+
 window.onscroll = () => {
   let sc = (window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100;
   document.getElementById("progress").style.width = sc + "%";
